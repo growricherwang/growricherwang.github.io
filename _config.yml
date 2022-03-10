@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "五星上将詹姆斯下士"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "美国空军五星上将詹姆斯下士为您带来美军日常训练内部视频"
+  location         : "Edwards AFB California"
   email            :
   links:
     - label: "Email"
