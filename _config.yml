@@ -110,14 +110,14 @@ author:
   email            :
   links:
     - label: "哔哩哔哩"
-      icon: "/assets/images/bilibili_176x176.jpg"
+      icon: "fas fa-fw fa-youtube"
       url: "https://space.bilibili.com/1561748576"
 
 # Site Footer
 footer:
   links:
     - label: "哔哩哔哩"
-      icon: "/assets/images/bilibili_176x176.jpg"
+      icon: "fas fa-fw fa-youtube"
       url: "https://space.bilibili.com/1561748576"
 
 # Reading Files
@@ -186,7 +186,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 20 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Shanghai
 
