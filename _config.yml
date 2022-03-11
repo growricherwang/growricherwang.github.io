@@ -110,14 +110,14 @@ author:
   email            :
   links:
     - label: "哔哩哔哩"
-      icon: "fa-brands fa-youtube-square"
+      icon: "fab fa-fw fa-youtube-square"
       url: "https://space.bilibili.com/1561748576"
 
 # Site Footer
 footer:
   links:
     - label: "哔哩哔哩"
-      icon: "fa-brands fa-youtube-square"
+      icon: "fab fa-fw fa-youtube-square"
       url: "https://space.bilibili.com/1561748576"
 
 # Reading Files
