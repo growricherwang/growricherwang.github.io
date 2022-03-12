@@ -8,4 +8,4 @@ tags:
 
 [今天太阳有点大，美国大兵不想练](https://www.bilibili.com/video/BV1am4y1R79W)
 
-<iframe height="56.25vw" src="//player.bilibili.com/player.html?aid=679355672&bvid=BV1am4y1R79W&cid=517880182&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="360px" height="640px" src="//player.bilibili.com/player.html?aid=679355672&bvid=BV1am4y1R79W&cid=517880182&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
