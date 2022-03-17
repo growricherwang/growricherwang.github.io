@@ -21,7 +21,7 @@ title_separator          : " "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "五星上将詹姆斯下士"
 description              : "美国空军五星上将詹姆斯下士为您带来美军日常训练内部视频"
-url                      : "http://meijunrichang.com"
+url                      : # "http://meijunrichang.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
