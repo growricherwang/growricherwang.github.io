@@ -85,7 +85,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/log_120x120.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -95,9 +95,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google"
   google:
-    tracking_id          :
+    tracking_id          : "G-03159MVXGC"
     anonymize_ip         : # true, false (default)
 
 
@@ -109,6 +109,9 @@ author:
   location         : "Edwards AFB California"
   email            :
   links:
+    - label: "首页"
+      icon: "fab fa-fw fa-plane-departure"
+      url: "http://meijunrichang.com"
     - label: "哔哩哔哩"
       icon: "fab fa-fw fa-youtube"
       url: "https://space.bilibili.com/1561748576"
@@ -116,6 +119,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "首页"
+      icon: "fab fa-fw fa-plane-departure"
+      url: "http://meijunrichang.com"
     - label: "哔哩哔哩"
       icon: "fab fa-fw fa-youtube"
       url: "https://space.bilibili.com/1561748576"
