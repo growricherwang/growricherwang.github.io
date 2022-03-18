@@ -1,5 +1,7 @@
 ---
 title: "今天太阳有点大，不练了休息"
+header:
+  teaser: "/assets/images/teasers/2022-02-27-train-in-bad-weather-teaser.png"
 categories:
   - 日常训练
 tags:
