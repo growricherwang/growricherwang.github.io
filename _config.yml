@@ -109,8 +109,8 @@ author:
   location         : "Edwards AFB California"
   email            :
   links:
-    - label: "首页"
-      icon: "fab fa-fw fa-plane-departure"
+    - label: "返回首页"
+      icon: "fab fa-fw fa-house"
       url: "http://meijunrichang.com"
     - label: "哔哩哔哩"
       icon: "fab fa-fw fa-youtube"
@@ -119,8 +119,8 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "首页"
-      icon: "fab fa-fw fa-plane-departure"
+    - label: "返回首页"
+      icon: "fab fa-fw fa-helmet-battle"
       url: "http://meijunrichang.com"
     - label: "哔哩哔哩"
       icon: "fab fa-fw fa-youtube"
