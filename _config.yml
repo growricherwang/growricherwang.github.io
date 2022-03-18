@@ -110,7 +110,7 @@ author:
   email            :
   links:
     - label: "返回首页"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "http://meijunrichang.com"
     - label: "哔哩哔哩"
       icon: "fab fa-fw fa-youtube"
@@ -120,7 +120,7 @@ author:
 footer:
   links:
     - label: "返回首页"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "http://meijunrichang.com"
     - label: "哔哩哔哩"
       icon: "fab fa-fw fa-youtube"
