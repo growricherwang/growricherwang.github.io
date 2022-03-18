@@ -61,7 +61,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
 search                   : true
-search_full_content      : # true, false (default)
+search_full_content      : true
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -72,7 +72,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : "0px-chlmMRIi9hPjqmwdA1L7g8kyVWGSgJBywqM0Bvg"
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
