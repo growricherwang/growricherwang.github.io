@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "文章"
-    url: /page-archive/
   - title: "类别"
     url: /categories/
   - title: "标签"
