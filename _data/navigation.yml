@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "视频合集"
+    url: /portfolio/
   - title: "类别"
     url: /categories/
   - title: "标签"
